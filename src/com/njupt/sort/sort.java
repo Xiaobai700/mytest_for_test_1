@@ -5,6 +5,25 @@ package com.njupt.sort;
  */
 public class sort {
     /**
+     * 插入排序
+     * */
+    public static void insertionSort(int a[]){
+        int length = a.length;
+        int j;
+        for(int i = 1;i < length;++i){
+            int value = a[i];
+            for(j = i-1;j>=0;j--){
+                if(a[j] > value){
+                    a[j+1] = a[j];
+                }else {
+                    break;
+                }
+            }
+            a[j+1] = value;
+        }
+    }
+
+    /**
      * 快速排序
      * */
     public static void quickSort(int a[],int low,int high){
@@ -94,12 +113,13 @@ public class sort {
 
     public static void main(String[] args){
         int a[] = {4,6,3,2,5,8};
+        insertionSort(a);
         /*quickSort(a,0,a.length-1);
         for (int num:a) {
             System.out.print(num);
         }*/
         //bubble_sort(a);
-        mergeSort(a,0,a.length-1);
+        //mergeSort(a,0,a.length-1);
         for (int num:a) {
             System.out.print(num);
         }
