@@ -134,6 +134,41 @@ public class sort {
      * 堆排序
      */
 
+    public static void heapSort(int[] a){
+        for (int i = a.length/2-1;i >= 0;i--){
+            adjustHeap(a,i,a.length);
+        }
+
+        for(int j = a.length-1;j > 0;j--){
+            swap(a,0,j);
+            adjustHeap(a,0,j);
+        }
+
+    }
+     public static void adjustHeap(int[] a,int i,int len){
+        int temp = a[i];
+        for(int k = 2*i+1;k < len;k = k*2+1){
+            if(k+1 < len && a[k] < a[k+1]){
+                k++;
+            }
+            if(a[k] > temp){
+                a[i] = a[k];
+                i = k;
+            }else {
+                break;
+            }
+        }
+        a[i] = temp;
+     }
+
+    public static void swap(int[] a,int i,int j){
+        int temp = a[i];
+        a[i] = a[j];
+        a[j] = temp;
+
+    }
+
+
     /**
      * 希尔排序
      * */
@@ -278,9 +313,9 @@ public class sort {
     }
 
     public static void main(String[] args){
-        int a[] = {4,6,3,2,5,8};
+        int a[] = {8,2,5,9,7,3};
         /*插排*/
-        //insertionSort(a);
+        insertionSort(a);
 
         /*快排*/
         //quickSort(a,0,a.length-1);
@@ -304,7 +339,10 @@ public class sort {
         //tongSort(a);
 
         /*基数排序*/
-        CardinalitySort(a);
+        //CardinalitySort(a);
+
+        /*堆排序*/
+        //heapSort(a);
         for (int num:a) {
             System.out.print(num);
         }
