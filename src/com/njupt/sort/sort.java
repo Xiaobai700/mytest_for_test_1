@@ -1,7 +1,5 @@
 package com.njupt.sort;
 
-import org.omg.CORBA.INTERNAL;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -26,6 +24,36 @@ public class sort {
                 }
             }
             a[j+1] = value;
+        }
+    }
+    /**
+     * 插入排序法二
+     * 在寻找插入位置的时候使用二分查找法
+     * 因为是从无序区拿一个元素放到有序区
+     * */
+    public static void insertSort1(int arr[]){
+        for(int idx = 1;idx <= arr.length -1;idx++)
+        {
+            if(arr[idx] < arr[idx -1])
+            {
+                int left = 0;
+                int right = idx -1;
+                int end = arr[idx];
+                while(left <= right)
+                {
+                    int mid = left + ((right - left) >> 1);
+                    if(end < arr[mid])
+                        right = mid - 1;
+                    else
+                        left = mid + 1;
+                }
+
+                for(int j = idx;j>0 && j>right+1;j--)
+                {
+                    arr[j] = arr[j-1];
+                }
+                arr[right+1] = end;
+            }
         }
     }
 
@@ -315,7 +343,8 @@ public class sort {
     public static void main(String[] args){
         int a[] = {8,2,5,9,7,3};
         /*插排*/
-        insertionSort(a);
+       // insertionSort(a);
+        insertSort1(a);
 
         /*快排*/
         //quickSort(a,0,a.length-1);
