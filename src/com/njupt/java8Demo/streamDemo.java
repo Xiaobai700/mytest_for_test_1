@@ -16,6 +16,9 @@ public class streamDemo {
         System.out.println("使用 Java 8: ");
         System.out.println("列表: " +strings);
 
+        /**
+         * filter 方法用于通过设置的条件过滤出元素
+         * */
         long count = strings.stream().filter(string->string.isEmpty()).count();
         System.out.println("空字符串数量为: " + count);
 
@@ -29,6 +32,9 @@ public class streamDemo {
         System.out.println("合并字符串: " + mergedString);
 
         List<Integer> numbers = Arrays.asList(3, 2, 2, 3, 7, 3, 5);
+        /**
+         * map 方法用于映射每个元素到对应的结果
+         * */
         List<Integer> squaresList = numbers.stream().map( i ->i*i).distinct().collect(Collectors.toList());
         System.out.println("Squares List: " + squaresList);
 
@@ -48,6 +54,10 @@ public class streamDemo {
         for(int i=0; i < 10; i++){
             System.out.println(random.nextInt());
         }
+        /**
+         * limit 方法用于获取指定数量的流
+         * sorted 方法用于对流进行排序
+         * */
         random.ints().limit(10).sorted().forEach(System.out::println);
 
         // 并行处理
