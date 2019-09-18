@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f1945-b3a8-48ca-bc6c-6bc355893356" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="208f1945-b3a8-48ca-bc6c-6bc355893356" name="Default Changelist" comment="readme">
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/java8Demo/streamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AdvanceMediaplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/MeidaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/Midiaplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/VlcPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/FlyweightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/ProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/ProxyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mytest_for_test/com/njupt/shijimoshiDemo/Decorator/ShapeDerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mytest_for_test/com/njupt/shijimoshiDemo/Decorator/ShapeDerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mytest_for_test/com/njupt/shijimoshiDemo/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mytest_for_test/com/njupt/shijimoshiDemo/singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mytest_for_test/com/njupt/sort/TuDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mytest_for_test/com/njupt/sort/TuDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/ShapeDerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/ShapeDerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/njupt/sort/TuDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/njupt/sort/TuDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,18 +54,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/ShapeDerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="140">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -49,20 +78,89 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/javaDemo/MapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/java8Demo/streamDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/RedShapeDerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/yuan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/zhengfangxing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,6 +180,7 @@
     <findStrings>
       <find>poll</find>
       <find>pollFirst</find>
+      <find>printL</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -97,13 +196,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/njupt/sort/tips.java" />
         <option value="$PROJECT_DIR$/hello.gitignore" />
         <option value="$PROJECT_DIR$/src/com/njupt/sort/Student.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/sort/MyComparetor.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/sort/Student1.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/sort/TreeSetSortDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/njupt/sort/TuDemo.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/sort/java8New.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/sort/sort.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/Product1.java" />
@@ -113,7 +210,6 @@
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/ProductDemo2.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/FactoryDemo.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton1.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/observer/BinaryObserver.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/observer/OctalObserver.java" />
@@ -128,8 +224,29 @@
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorato/RedShapeDerator.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/RedShapeDerator.java" />
         <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/DecoratoeDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/test.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/njupt/javaDemo/MapDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/Image.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/ProxyImage.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/RealImage.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/ProxyDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/Midiaplayer.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AdvanceMediaplayer.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/VlcPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/Mp4Player.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/NeidaAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/MeidaAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AdapterDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Factory.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/FlyweightDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/sort/TuDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/ShapeDerator.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/test.java" />
+        <option value="$PROJECT_DIR$/src/com/njupt/User.java" />
       </list>
     </option>
   </component>
@@ -140,10 +257,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="417" />
+    <option name="y" value="233" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -184,7 +301,7 @@
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="njupt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="shijimoshiDemo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java8Demo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -195,13 +312,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564107535742" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zczy-monitoring-platform" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568768979516" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../monkey-oms" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,13 +332,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecoratoeDemo">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.njupt.shijimoshiDemo.abstractFactory.Client" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="AdapterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njupt.shijimoshiDemo.Adapter.AdapterDemo" />
       <module name="mytest_for_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.njupt.shijimoshiDemo.abstractFactory.*" />
+          <option name="PATTERN" value="com.njupt.shijimoshiDemo.Adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +346,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoratoeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.njupt.shijimoshiDemo.Decorator.DecoratoeDemo" />
+    <configuration name="FlyweightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njupt.shijimoshiDemo.Flyweight.FlyweightDemo" />
       <module name="mytest_for_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.njupt.shijimoshiDemo.Decorator.*" />
+          <option name="PATTERN" value="com.njupt.shijimoshiDemo.Flyweight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +359,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.njupt.shijimoshiDemo.observer.ObserverDemo" />
+    <configuration name="ProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njupt.shijimoshiDemo.Proxy.ProxyDemo" />
       <module name="mytest_for_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.njupt.shijimoshiDemo.observer.*" />
+          <option name="PATTERN" value="com.njupt.shijimoshiDemo.Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,8 +372,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java8New" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.njupt.sort.java8New" />
+    <configuration name="TuDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njupt.sort.TuDemo" />
       <module name="mytest_for_test" />
       <extension name="coverage">
         <pattern>
@@ -268,12 +385,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.njupt.sort.sort" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njupt.shijimoshiDemo.test" />
       <module name="mytest_for_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.njupt.sort.*" />
+          <option name="PATTERN" value="com.njupt.shijimoshiDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,11 +400,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecoratoeDemo" />
-        <item itemvalue="Application.ObserverDemo" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.sort" />
-        <item itemvalue="Application.java8New" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.TuDemo" />
+        <item itemvalue="Application.FlyweightDemo" />
+        <item itemvalue="Application.AdapterDemo" />
+        <item itemvalue="Application.ProxyDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +430,24 @@
       <workItem from="1563957348883" duration="9163000" />
       <workItem from="1564014399008" duration="1146000" />
       <workItem from="1564032222958" duration="2623000" />
-      <workItem from="1564100691349" duration="4535000" />
+      <workItem from="1564100691349" duration="7364000" />
+      <workItem from="1564453508012" duration="4110000" />
+      <workItem from="1564532266534" duration="1366000" />
+      <workItem from="1564549828832" duration="597000" />
+      <workItem from="1564561502325" duration="4113000" />
+      <workItem from="1566525668603" duration="1597000" />
+      <workItem from="1566537264763" duration="2317000" />
+      <workItem from="1566780583159" duration="847000" />
+      <workItem from="1566873551008" duration="1501000" />
+      <workItem from="1566951895043" duration="5471000" />
+      <workItem from="1567038285315" duration="1254000" />
+      <workItem from="1567124769311" duration="3509000" />
+      <workItem from="1567384151107" duration="718000" />
+      <workItem from="1567408129684" duration="605000" />
+      <workItem from="1567470317759" duration="1292000" />
+      <workItem from="1567686303458" duration="17000" />
+      <workItem from="1568192091032" duration="978000" />
+      <workItem from="1568768868486" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563438115251</created>
@@ -396,12 +530,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88906000" />
+    <option name="totallyTimeSpent" value="122134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.13539445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.17202573" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -409,18 +544,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.30694142" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.10737527" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994641" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49410504" weight="0.22752497" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49464095" weight="0.11764706" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.54555315" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4978678" visible="true" weight="0.29392624" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.29392624" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49678457" weight="0.41731408" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005359" side_tool="true" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49732047" weight="0.32963374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -491,95 +626,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hello.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6197">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/sort/MyComparetor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/sort/Student1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/sort/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/sort/tips.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="416" column="49" selection-start-line="416" selection-start-column="49" selection-end-line="416" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/sort/TreeSetSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/javax/xml/soap/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-172">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="585" column="14" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="1164" column="27" lean-forward="true" selection-start-line="1164" selection-start-column="27" selection-end-line="1164" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -611,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/sort/TuDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/njupt/sort/java8New.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -634,20 +673,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/ProductDemo1.java" />
     <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/Factory.java" />
     <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/FactoryDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/observer/BinaryObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -698,59 +723,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/DecoratoeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/RedShapeDerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/ShapeDerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/yuan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/zhengfangxing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/abstractFactory/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="234">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding>
             <element signature="e#244#245#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
@@ -762,13 +748,278 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/ProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/ProxyImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/RealImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Proxy/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="266" column="60" selection-start-line="266" selection-start-column="60" selection-end-line="266" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AdvanceMediaplayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/Midiaplayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/Mp4Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/VlcPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/MeidaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Flyweight/FlyweightDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Adapter/AdapterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/io/ObjectStreamConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10476">
+          <caret line="665" column="24" lean-forward="true" selection-start-line="665" selection-start-column="24" selection-end-line="665" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="109" column="27" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/sort/TuDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="114" column="20" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/DecoratoeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/ShapeDerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/singleton/Singleton1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/RedShapeDerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/yuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/shijimoshiDemo/Decorator/zhengfangxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/javaDemo/MapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/njupt/java8Demo/streamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -836,6 +1087,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

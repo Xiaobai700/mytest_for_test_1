@@ -3,7 +3,7 @@ package com.njupt.shijimoshiDemo.singleton;
 public class Singleton {
     /**
      * 线程安全的懒汉式*/
-    /*private static Singleton instance;
+    private static Singleton instance;
     private Singleton(){
 
     }
@@ -12,7 +12,7 @@ public class Singleton {
             return new Singleton();
         }
         return instance;
-    }*/
+    }
 
     /**
      * 饿汉式*/

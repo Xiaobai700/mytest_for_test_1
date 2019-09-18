@@ -1,5 +1,8 @@
 package com.njupt.sort;
 
+import com.njupt.User;
+
+import java.io.ObjectStreamConstants;
 import java.util.*;
 
 /**
@@ -83,10 +86,37 @@ public class TuDemo {
        }
    }
 
+   public void demo(List<User> list){
+       User user = new User();
+       user.setLevel(9);
+       list.add(user);
+   }
+
     public static void main(String[] args){
-        TuDemo tuDemo = new TuDemo();
+       /* TuDemo tuDemo = new TuDemo();
         tuDemo.init();
         //tuDemo.DFS("1");
-        tuDemo.BFS("1");
-    }
-}
+        tuDemo.BFS("1");*/
+
+      /* List<User> list = new ArrayList<>();
+       List<User> list1 = new ArrayList<>();
+
+       User user = new User();
+       user.setLevel(1);
+       list.add(user);
+
+       user.setLevel(9);
+       list1.add(user);*/
+
+      List<User> list = new ArrayList();
+      TuDemo tuDemo = new TuDemo();
+      tuDemo.demo(list);
+        for (User u:list) {
+            System.out.println(u.getLevel());
+        }
+
+
+
+
+
+}}
