@@ -2,17 +2,30 @@ package com.njupt.shijimoshiDemo.singleton;
 
 public class Singleton {
     /**
-     * 线程安全的懒汉式*/
-    private static Singleton instance;
-    private Singleton(){
+     * 单例模式的几种实现方式
+     * */
 
-    }
-    public static synchronized Singleton getInstance(){
+    /**
+     * 最基础的一种实现方式
+     * 线程不安全的懒汉式*/
+    private static Singleton instance;
+    private Singleton(){}
+    public static Singleton getInstance(){
         if(instance == null){
-            return new Singleton();
+            instance = new Singleton();
         }
         return instance;
     }
+    /**
+     * 线程安全的懒汉式*/
+    /*private static Singleton instance;
+    private Singleton(){}
+    public static synchronized Singleton getInstance(){
+        if(instance == null){
+            instance = new Singleton();
+        }
+        return instance;
+    }*/
 
     /**
      * 饿汉式*/
